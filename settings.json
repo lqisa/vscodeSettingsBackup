@@ -1,0 +1,45 @@
+{
+    "search.useRipgrep": false,
+    "workbench.colorTheme": "One Dark Pro",
+    "git.ignoreMissingGitWarning": true,
+    "window.zoomLevel": 0,
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 13,
+    // "editor.fontFamily": "'Yahei Consolas Hybrid', Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "'Fira Code', 'Ubuntu Mono', Consolas",
+    "search.location": "panel",
+    // "editor.fontLigatures": true,
+    "editor.tabSize": 2,
+    "editor.cursorStyle": "line",
+    "editor.insertSpaces": true,
+    "editor.wordWrap": "on",
+    "editor.cursorBlinking": "expand",
+    "window.menuBarVisibility": "toggle",
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "gitlens.historyExplorer.enabled": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "html",
+        "vue",
+        {
+            "language": "html",
+            "autoFix": true
+        }
+    ],
+    "sync.gist": "18be24d2fda5183d0ce90d7803383a43",
+    "sync.quietSync": false,
+    "sync.askGistName": false,
+    "sync.removeExtensions": true,
+    "sync.syncExtensions": true,
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.forceDownload": false,
+    "workbench.startupEditor": "welcomePage",
+    "npm.enableScriptExplorer": true,
+}
